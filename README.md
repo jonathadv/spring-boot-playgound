@@ -1,4 +1,4 @@
-# Spring Boot Playground
+# Spring Boot Playground Parking Control
 
 ## Resources
 - [Spring Initializer](https://start.spring.io/)
